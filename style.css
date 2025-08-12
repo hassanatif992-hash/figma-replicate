@@ -41,7 +41,7 @@ p {
 
 /* ===== HERO SECTION (Forget About Code) ===== */
 .hero {
-    background: 
+       background: 
         linear-gradient(rgba(49, 0, 128, 0.5), rgba(28, 0, 128, 0.5)),
         url('/2e9d962f4c269f57807850115899b4611a2bf3ba\ \(1\).jpg') center/cover no-repeat;
     color: white;
@@ -954,5 +954,6 @@ opacity: 1;
     opacity: 1;
     transform: translateY(0);
 }
+
 
 }
